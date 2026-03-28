@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm interested in:<br>  - game development in Roblox Studio<br>  - compilers<br>  - frontend<br>  - code architecture<br><br>I very much enjoy playing video games with light strategy involved and creativity like battleground games.<br>I speak English and Polish 🇵🇱 on daily basis. I really like anime and fantasy novels. <br>My dream is to create something big, a game before graduating high school or a  kickstarter campaign during my future college years.<br><br><br>Last fun fact about me is that I wish to also learn robotics and automation in the future.<br>
+
+## I'm interested in
+
+- game development in Roblox Studio<br>  - compilers<br>  - frontend<br>  - code architecture<br><br>I very much enjoy playing video games with light strategy involved and creativity like battleground games.<br>I speak English and Polish 🇵🇱 on daily basis. I really like anime and fantasy novels. <br>My dream is to create something big, a game before graduating high school or a  kickstarter campaign during my future college years.<br><br><br>Last fun fact about me is that I wish to also learn robotics and automation in the future.<br>
 
 
 # 💻 Tech Stack:
